@@ -91,6 +91,9 @@ function App(): React.JSX.Element {
           </Section>
           <LearnMoreLinks />
         </View>
+        <View className="w-full">
+          <Text>hi</Text>
+        </View>
       </ScrollView>
     </SafeAreaView>
   );
