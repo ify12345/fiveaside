@@ -1,0 +1,13 @@
+{
+  "update": "Update",
+  "full_name": "Full Name",
+  "edit_name": "Edit Name",
+  "edit_business_name": "Edit Business Name",
+  "edit_email_address": "Edit Email Address",
+  "edit_phone_number": "Edit Phone Number",
+  "current_password": "Current Password",
+  "available_concierge": "Available for concierge",
+  "pick_image_error": "Unable to read selected image",
+  "job_title": "Job Title",
+  "edit_job_title": "Edit Job Title"
+}

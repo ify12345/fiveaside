@@ -1,0 +1,21 @@
+{
+  "payment_account": "Payment Account",
+  "no_account": "No Payment Account Added Yet",
+  "no_account_desc": "Earnings from your clients will be paid into this account",
+  "add_payment_account": "Add Payment Account",
+  "bank_name": "Bank Name",
+  "routing_number": "Routing Number",
+  "account_number": "Account Number",
+  "account_name": "Account Name",
+  "add_account": "Add Account",
+  "bank_name_required": "Please select a bank",
+  "routing_number_required": "Routing number is required",
+  "account_number_required": "Account number is required",
+  "account_name_required": "Account name is required",
+  "select_bank": "Select Bank",
+  "edit_payment_account": "Edit Payment Account",
+  "update": "Update",
+  "account_name_placeholder": "Enter account name",
+  "routing_number_placeholder": "Enter routing number",
+  "account_number_placeholder": "Enter account number"
+}

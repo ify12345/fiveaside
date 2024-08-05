@@ -1,0 +1,20 @@
+{
+  "welcome_back": "Welcome Back 👋",
+  "screen_desc": "Kindly provide your details to login",
+  "email_address": "Email Address",
+  "password": "Password",
+  "remember_me": "Remember me",
+  "forgot_password": "Forgot password?",
+  "no_account": "Don't have an account?",
+  "signup": "Signup",
+  "or": "Or",
+  "continue_google": "Continue with Google",
+  "valid_email": "Email address must be a valid email",
+  "required_email": "Email address is required",
+  "required_password": "Password is required",
+  "placeholder_email": "Enter email address",
+  "placeholder_password": "Enter password",
+  "google_canceled": "The user canceled the request",
+  "google_play_error": "Play services not available or outdated",
+  "google_other_error": "Error occurred"
+}

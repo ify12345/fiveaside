@@ -1,0 +1,10 @@
+{
+  "login": "Login",
+  "create_account": "Create Account",
+  "loading": "Loading... Please wait",
+  "select_account_type": "Select Account Type",
+  "new_account": "New account",
+  "new_account_desc": "I want to register my business on Ouchless",
+  "existing_account": "Existing account",
+  "existing_account_desc": "I work for a business with an Ouchless account"
+}

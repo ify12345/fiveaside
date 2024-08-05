@@ -1,0 +1,13 @@
+{
+  "update": "Mise à jour",
+  "full_name": "Nom et prénom",
+  "edit_name": "Modifier le nom",
+  "edit_business_name": "Modifier le nom de l'entreprise",
+  "edit_email_address": "Modifier l'adresse e-mail",
+  "edit_phone_number": "Modifier le numéro de téléphone",
+  "current_password": "Mot de passe actuel",
+  "available_concierge": "Disponible pour le concierge",
+  "pick_image_error": "Impossible de lire l'image sélectionnée",
+  "job_title": "Titre d'emploi",
+  "edit_job_title": "Modifier le titre du poste"
+}

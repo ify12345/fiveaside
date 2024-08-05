@@ -1,4 +1,74 @@
 {
-  "name": "fiveaside",
-  "displayName": "fiveaside"
+  "expo": {
+    "name": "fiveaside",
+    "slug": "fiveaside",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ouchless",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "buildNumber": "1"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "allowBackup": false,
+      "package": "com.ouchless",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 3,
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "09dec374-f226-44f5-87d6-beba1197243b"
+      }
+    },
+    "owner": "ouchless",
+    "plugins": [
+      "expo-localization",
+      "@react-native-firebase/app",
+      "@react-native-google-signin/google-signin",
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static",
+            "deploymentTarget": "13.4"
+          }
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Ouchless app access to your photos to upload a profile picture",
+          "cameraPermission": "Allow Ouchless app access to your camera to take a profile picture"
+        }
+      ]
+    ],
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/09dec374-f226-44f5-87d6-beba1197243b",
+      "checkAutomatically": "ON_ERROR_RECOVERY"
+    }
+  }
 }

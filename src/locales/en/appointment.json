@@ -1,0 +1,16 @@
+{
+  "upcoming_appointments": "Upcoming Appointments",
+  "past_appointments": "Past Appointments",
+  "today": "Today",
+  "search_client": "Search for a client",
+  "zero_appointments": "No Appointments Yet",
+  "zero_appointments_desc": "You have no appointments right now. Come back later.",
+  "cancel_booking": "Cancel Booking",
+  "mark_complete": "Mark as Complete",
+  "cancel_reason": "Cancellation Reason",
+  "reason": "Reason",
+  "write_cancel_reason": "Write something here",
+  "submit": "Submit",
+  "required_cancel_reason": "Reason for cancellation is required",
+  "reason_length": "Reason should be a minimum of 20 characters"
+}

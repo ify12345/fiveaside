@@ -1,0 +1,21 @@
+{
+  "payment_account": "Compte de paiement",
+  "no_account": "Aucun compte de paiement ajouté pour l'instant",
+  "no_account_desc": "Les gains de vos clients seront versés sur ce compte",
+  "add_payment_account": "Ajouter un compte de paiement",
+  "bank_name": "Nom de banque",
+  "routing_number": "Numéro d'acheminement",
+  "account_name": "Nom du compte",
+  "account_number": "Numéro de compte",
+  "add_account": "Ajouter un compte",
+  "bank_name_required": "Veuillez sélectionner une banque",
+  "routing_number_required": "Le numéro de routage est requis",
+  "account_number_required": "Le numéro de compte est requis",
+  "account_name_required": "Le nom du compte est requis",
+  "select_bank": "Sélectionnez la banque",
+  "edit_payment_account": "Modifier le compte de paiement",
+  "update": "Mise à jour",
+  "account_name_placeholder": "Entrez le nom du compte",
+  "routing_number_placeholder": "Entrez le numéro de routage",
+  "account_number_placeholder": "Entrez le numéro de compte"
+}

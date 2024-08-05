@@ -1,0 +1,16 @@
+{
+  "upcoming_appointments": "Rendez-vous à venir",
+  "past_appointments": "Rendez-vous passés",
+  "today": "Aujourd'hui",
+  "search_client": "Rechercher un client",
+  "zero_appointments": "Pas encore de rendez-vous",
+  "zero_appointments_desc": "Vous n'avez aucun rendez-vous pour le moment. Revenez plus tard.",
+  "cancel_booking": "Annuler la réservation",
+  "mark_complete": "Marquer comme terminé",
+  "cancel_reason": "Raison de l'annulation",
+  "reason": "Raison",
+  "write_cancel_reason": "Écrivez quelque chose ici",
+  "submit": "Soumettre",
+  "required_cancel_reason": "Le motif de l'annulation est requis",
+  "reason_length": "Le motif doit comporter au minimum 20 caractères"
+}

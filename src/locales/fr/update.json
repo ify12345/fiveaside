@@ -1,0 +1,14 @@
+{
+  "checking_update": "Vérification de la mise à jour",
+  "check_desc": "Veuillez patienter pendant que nous vérifions la dernière version d'Ouchless",
+  "update_available": "Mise à jour disponible",
+  "available_desc": "Veuillez mettre à jour votre application instantanément pour découvrir la meilleure version d'Ouchless",
+  "update_app": "Mettre à jour l'application",
+  "downloading_update": "Téléchargement de la mise à jour",
+  "downloading_desc": "Veuillez patienter pendant que nous téléchargeons la dernière version d'Ouchless",
+  "update_complete": "Votre application est à jour",
+  "reload_desc": "Rechargez votre application pour commencer à utiliser la dernière version d'Ouchless",
+  "reload": "Recharger",
+  "check_update_failed": "Impossible de vérifier la mise à jour de l'application",
+  "download_update_failed": "Échec du téléchargement de la mise à jour de l'application"
+}

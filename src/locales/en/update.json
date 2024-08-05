@@ -1,0 +1,14 @@
+{
+  "checking_update": "Checking for Update",
+  "check_desc": "Please wait while we check for the latest version of Ouchless",
+  "update_available": "Update Available",
+  "available_desc": "Please update your app instantly to experience the best version of Ouchless",
+  "update_app": "Update App",
+  "downloading_update": "Downloading Update",
+  "downloading_desc": "Please wait while we download the latest version of Ouchless",
+  "update_complete": "Your app is up to date",
+  "reload_desc": "Reload your app to start using the latest version of Ouchless",
+  "reload": "Reload",
+  "check_update_failed": "Unable to check for app update",
+  "download_update_failed": "Failed to download app update"
+}

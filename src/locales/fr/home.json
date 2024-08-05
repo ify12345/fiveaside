@@ -1,0 +1,16 @@
+{
+  "hi": "Salut",
+  "overview": "Aperçu",
+   "filter": "Filtre",
+  "this_month": "Ce mois-ci",
+  "total_booked_appointments": "Total des rendez-vous complétés",
+  "total_earnings": "Total des gains",
+  "see_all": "Voir tout",
+  "today": "Aujourd'hui",
+  "this_week": "Cette semaine",
+  "no_appointment": "Pas encore de rendez-vous à venir !",
+  "no_appointment_desc": "Les clients qui ont pris rendez-vous apparaîtront ici.",
+  "select_date_range": "Sélectionnez une plage de dates",
+  "date_from": "Dater de",
+  "date_to": "Date de"
+}

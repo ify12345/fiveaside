@@ -1,0 +1,9 @@
+{
+  "email_verification": "Vérification de compte",
+  "screen_desc": "Veuillez saisir le code OTP à 4 chiffres envoyé à votre",
+  "verify_email": "Vérifier les courriels",
+  "resend_otp": "Vous n'avez pas reçu le code OTP?",
+  "resend": "Renvoyer",
+  "alt_phone": "Utilisez plutôt le numéro de téléphone",
+  "alt_email": "Utilisez plutôt l’adresse e-mail"
+}

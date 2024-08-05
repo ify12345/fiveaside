@@ -1,0 +1,20 @@
+{
+  "welcome_back": "Content de te revoir 👋",
+  "screen_desc": "Veuillez fournir vos coordonnées pour vous connecter",
+  "email_address": "Adresse E-mail",
+  "password": "Mot de passe",
+  "remember_me": "Souviens-toi de moi",
+  "forgot_password": "Mot de passe oublié?",
+  "no_account": "Vous n'avez pas de compte?",
+  "signup": "S'inscrire",
+  "or": "Ou",
+  "continue_google": "Continuer avec Google",
+  "valid_email": "L'adresse e-mail doit être une adresse e-mail valide",
+  "required_email": "Adresse e-mail est nécessaire",
+  "required_password": "Mot de passe requis",
+  "placeholder_email": "Entrer l'adresse e-mail",
+  "placeholder_password": "Entrer le mot de passe",
+  "google_canceled": "L'utilisateur a annulé la demande",
+  "google_play_error": "Services de jeu non disponibles ou obsolètes",
+  "google_other_error": "Erreur est survenue"
+}

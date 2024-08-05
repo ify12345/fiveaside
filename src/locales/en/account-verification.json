@@ -1,0 +1,9 @@
+{
+  "account_verification": "Account Verification",
+  "screen_desc": "Kindly enter the 4-digit OTP code sent to your",
+  "verify_email": "Verify Email",
+  "resend_otp": "Didn't get OTP code?",
+  "resend": "Resend",
+  "alt_phone": "Use Phone Number Instead",
+  "alt_email": "Use Email Address Instead"
+}

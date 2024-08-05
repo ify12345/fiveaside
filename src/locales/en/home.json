@@ -1,0 +1,16 @@
+{
+  "hi": "Hi",
+  "overview": "Overview",
+  "filter": "Filter",
+  "this_month": "This Month",
+  "total_booked_appointments": "Total completed Appointments",
+  "total_earnings": "Total Earnings",
+  "see_all": "See All",
+  "today": "Today",
+  "this_week": "This week",
+  "no_appointment": "No Upcoming Appointments Yet!",
+  "no_appointment_desc": "Customers that have booked appointments will show up here.",
+  "select_date_range": "Select date range",
+  "date_from": "Date From",
+  "date_to": "Date To"
+}
